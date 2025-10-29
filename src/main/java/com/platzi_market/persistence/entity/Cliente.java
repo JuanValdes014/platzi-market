@@ -3,7 +3,7 @@ package com.platzi_market.persistence.entity;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "categorias")
+@Table(name = "clientes")
 public class Cliente {
     @Id
     @Column(name = "id")
