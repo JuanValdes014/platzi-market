@@ -10,7 +10,7 @@ description = 'Proyecto para crear una API con spring'
 
 java {
 	toolchain {
-		languageVersion = JavaLanguageVersion.of(21)
+		languageVersion = JavaLanguageVersion.of(25)
 	}
 }
 
